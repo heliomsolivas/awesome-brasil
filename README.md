@@ -1,11 +1,12 @@
 # awesome-brasil
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Uma lista de projetos Open Source Brasileiros!
+Uma lista de projetos Open Source/Free Software Brasileiros!
 
 ## Conteúdo
 
 - [PHP](#php)
+  - [Mirrors](#mirrors)
   - [Packages](#packages)
   - [Laravel](#laravel)
   - [CodeIgniter](#codeigniter)
@@ -19,8 +20,17 @@ Uma lista de projetos Open Source Brasileiros!
   - [Node.js](#nodejs)
 - [CSS](#css)
 - [Shell Script](#shell-script)
+- [Sites](#sites)
 
 ## PHP
+
+### Mirrors
+
+Lista de espelhos: https://packagist.org/mirrors
+
+| Localização |
+|---|
+| [São Paulo](https://packagist.com.br) |
 
 ### Packages
 
@@ -35,6 +45,8 @@ Uma lista de projetos Open Source Brasileiros!
 | [RedSQL](https://github.com/marcioAlmada/redsql) | RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way. |
 | [Respect](http://respect.github.io) | Componentes simples e independentes para construção e melhoria de aplicações PHP. |
 | [Moip v2 SDK](https://github.com/moip/moip-sdk-php) | O jeito mais simples e rápido de integrar o Moip a sua aplicação PHP. |
+| [Khan Framework](https://github.com/PaulaoDev/khan) | Framework php destinado a criar aplicações web. |
+| [Packagist Mirror](https://github.com/Webysther/packagist-mirror) | Permite criar/atualizar um espelho dos metadados do packagist |
 
 ### Laravel
 
@@ -59,6 +71,7 @@ Uma lista de projetos Open Source Brasileiros!
 | [Odin Framework](https://github.com/wpbrasil/odin) | Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/groups/wordpress.brasil), para auxiliar no desenvolvimento ágil de temas para WordPress. |
 | [Potter](https://github.com/potterywp/potter) | Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente. |
 | [w.eloquent](https://github.com/bruno-barros/w.eloquent) | Wordpress integrated with Laravel via Composer. |
+| [Corcel](https://github.com/corcel/corcel) | Use WordPress backend with Laravel or any PHP application |
 
 ## Ruby
 
@@ -75,6 +88,9 @@ Uma lista de projetos Open Source Brasileiros!
 | [RCurtain](https://github.com/moip/rcurtain) | Easy way to control your features using redis. |
 | [Moip Assinaturas](https://github.com/moip/moip-assinaturas) | Gem para utilização das assinaturas do Moip. |
 | [Powerline-Pills-ZSH](https://github.com/lucasqueiroz/powerline-pills-zsh) | Tema para ZSH que cria pílulas feitas com caracteres do Powerline. Feito em Ruby. |
+| [TheApes](https://github.com/Kitsun3Sec/TheApes/) | Harderning Tool para melhorar a segurança de servidores. Feito em Ruby com amor. |
+| [Noosfero](https://github.com/noosfero/noosfero) | Plataforma para criar redes sociais. Ruby on Rails |
+| [Musical Artifacts](https://github.com/lfzawacki/musical-artifacts) | Uma aplicação web com o objetivo de ajudar os músicos a encontrar, compartilhar e preservar os 'artefatos' que eles usam na produção musical. Ruby on Rails. |
 
 ## Javascript
 
@@ -122,3 +138,10 @@ Uma lista de projetos Open Source Brasileiros!
 |---|---|
 | [ShellBot](https://github.com/shellscriptx/ShellBot) | API em Shell Script para desenvolvimento de Bots na plataforma Telegram. |
 | [Funções ZZ](https://github.com/funcoeszz/funcoeszz) | Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin. |
+
+
+## Sites
+
+| Projeto | Descrição |
+|---|---|
+| [Exata0mente](https://github.com/exata0mente/exata0mente.github.io) | Site colaborativo, construído com [Jekyll](https://jekyllrb.com/). Ótima opção para treinar CSS, HTML, FrontMatter, Liquid Template e gerar conteúdo|
